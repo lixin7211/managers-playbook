@@ -21,8 +21,8 @@ Heuristics for effective management.
 
 ## Table of Contents
 
-1. [Principles][principles]
-1. [One on ones][one-on-ones]
+1. [Principles][principles][原则]
+1. [One on ones][one-on-ones][1对多]
 1. [Coaching][coaching]
 1. [Feedback][feedback]
 1. [Thinking strategically][thinking-strategically]
